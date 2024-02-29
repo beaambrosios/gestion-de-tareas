@@ -1,0 +1,10 @@
+/* Estilo para tareas completadas */
+.completada .tachado {
+    text-decoration: line-through;
+    color: #999; /* Color de texto gris para tareas completadas */
+}
+
+/* Estilo para checkbox */
+input[type="checkbox"] {
+    margin-top: 4px; /* Ajusta el checkbox verticalmente */
+}
